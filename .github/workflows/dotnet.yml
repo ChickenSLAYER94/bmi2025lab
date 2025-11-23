@@ -6,7 +6,7 @@ name: .NET
 env:
   AZURE_WEBAPP_NAME: bmi202520251123200840           
   
-  AZURE_WEBAPP_PACKAGE_PATH: 'publish/myapp' 
+  AZURE_WEBAPP_PACKAGE_PATH: '.' 
 
 on:   
   push:                            
